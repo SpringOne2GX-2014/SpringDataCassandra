@@ -1,7 +1,7 @@
 Spring Data Cassandra
 =====================
 
-This repo contains the slides for the [Spring Data Cassandra](http://projects.spring.io/spring-data-cassandra) portion of the presentation, [Cassandra, Couchbase and Spring Data in the Enterprise](https://2014.event.springone2gx.com/schedule/sessions/cassandra_couchbase_and_spring_data_in_the_enterprise.html).
+This repo contains the slides for the [Spring Data Cassandra](http://projects.spring.io/spring-data-cassandra) portion of the presentation ["Cassandra, Couchbase and Spring Data in the Enterprise"](https://2014.event.springone2gx.com/schedule/sessions/cassandra_couchbase_and_spring_data_in_the_enterprise.html).
 
 The source code repo for the demo is located [here](https://github.com/SciSpike/springone2gx/tree/master/2014).
 
